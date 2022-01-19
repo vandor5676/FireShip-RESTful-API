@@ -39,4 +39,4 @@ app.post('/tshirt/:id',(req,res)=>{
 })
 ```
 
-![Tux, the Linux mascot](https://github.com/vandor5676/FireShip-RESTful-API/blob/main/readmeMedia/RESTfullAPI1.gif)
+![APIGif](https://github.com/vandor5676/FireShip-RESTful-API/blob/main/readmeMedia/RESTfullAPI1.gif)
